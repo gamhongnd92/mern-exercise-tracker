@@ -1,0 +1,10 @@
+create folder: backend using command >> mkdir backend
+>> cd backend
+>> npm install express cors mongoose dotenv
+in backend folder, create file ".env" 
+go out mern-excercise-tracker folder
+install bootstrap >> npm install bootstrap
+>> npm install react-router-dom
+>> npm install react-datepicker
+>> npm install axios
+
